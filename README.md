@@ -1,1 +1,2 @@
-# rozliczenie_pojazdu_rest_jpa
+# Rozliczenie projektu - REST JPA
+Rozliczenie pojazdu jest to projekt, który ma za zadanie pokazanie osobie zaczynającej swoją przygodę z programowaniem, jak można wykonać takie samo zadanie w różny sposób. Te repozytorium jest powiązane z artykułem rozliczenie pojazdu REST JPA. Cały opis projektu można znaleźć na stronie.
